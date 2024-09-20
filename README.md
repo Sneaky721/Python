@@ -12,11 +12,11 @@ Requirements
 Python 3.x
 
 How to Play
-1. Run the game: Start the program by running the Python script in your terminal or any python IDE
+1. Run the game: Start the program by running the Python script in your terminal or any Python IDE
 
 
 2. Game Modes: Choose between playing against another player (P) or against the computer (C).
-If you choose to play against the computer, you can select a weak or strong AI.
+If you play against the computer, you can select a weak or strong AI.
 Player Input:
 
 3. The game will prompt the players to input their moves by entering the corresponding number of the grid (0-8).
@@ -29,7 +29,7 @@ Grid Layout: The 3x3 grid layout is displayed as follows:
 -----------
  3 | 4 | 5
 -----------
-** 6 | 7 | 8**
+ 6 | 7 | 8
  
 4. Win or Draw:
 The game will check for a winner after each turn.
