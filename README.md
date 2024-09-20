@@ -30,6 +30,7 @@ Grid Layout: The 3x3 grid layout is displayed as follows:
  3 | 4 | 5
 -----------
  6 | 7 | 8
+-----------
  
 4. Win or Draw:
 The game will check for a winner after each turn.
